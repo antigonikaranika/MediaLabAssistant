@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Buy Groceries",
+    "description": "Milk, eggs, bread, and vegetables.",
+    "category": "Personal",
+    "priority": "Medium",
+    "deadline": "2025-03-05",
+    "status": "Open",
+    "reminders": [
+      "2025-03-04"
+    ]
+  },
+  {
+    "title": "Team Meeting",
+    "description": "Weekly sync with project team.",
+    "category": "Work",
+    "priority": "High",
+    "deadline": "2025-03-09",
+    "status": "In Progress",
+    "reminders": []
+  },
+  {
+    "title": "Doctor Appointment",
+    "description": "Annual check-up appointment.",
+    "category": "Personal",
+    "priority": "High",
+    "deadline": "2025-03-10",
+    "status": "Postponed",
+    "reminders": [
+      "2025-03-09"
+    ]
+  },
+  {
+    "title": "Submit Tax Documents",
+    "description": "Prepare and submit all tax documents before the deadline.",
+    "category": "Finance",
+    "priority": "High",
+    "deadline": "2025-04-15",
+    "status": "Open",
+    "reminders": [
+      "2025-04-10",
+      "2025-04-13"
+    ]
+  },
+  {
+    "title": "Workout Session",
+    "description": "Cardio and strength training at the gym.",
+    "category": "Fitness",
+    "priority": "Medium",
+    "deadline": "2024-03-03",
+    "status": "Delayed",
+    "reminders": []
+  },
+  {
+    "title": "Project Deadline",
+    "description": "",
+    "category": "Homework",
+    "priority": "High",
+    "deadline": "2025-02-28",
+    "status": "Completed",
+    "reminders": []
+  }
+]
