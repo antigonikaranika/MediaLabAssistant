@@ -134,5 +134,5 @@ There are some screenshots of the application in the file "report.pdf".
 ## Developed For
 This project was developed as part of the **Multimedia Technology** course at the **National Technical University of Athens (NTUA)** by:
 
-** Antigoni Maria Karanika **  
+**Antigoni Maria Karanika**  
 
