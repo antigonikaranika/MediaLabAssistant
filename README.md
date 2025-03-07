@@ -127,6 +127,8 @@ All data is stored in `medialab/`, including:
 | Reminder Management | Automatic and custom reminders for each task. |
 | Search | Search tasks by title, category, priority. |
 
+There are some screenshots of the application in the file "report.pdf".
+
 ---
 
 ## Developed For
