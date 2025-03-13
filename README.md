@@ -50,7 +50,7 @@ MediaLabAssistant/
 
 ## Setup and Run Instructions
 
-### 1️ Install IntelliJ IDEA Community Edition
+### 1️⃣ Install IntelliJ IDEA Community Edition
 Download and install IntelliJ from:  
  [https://www.jetbrains.com/idea/download](https://www.jetbrains.com/idea/download)
 
